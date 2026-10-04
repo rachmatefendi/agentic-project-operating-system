@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or discuss APOS, please cite this specification."
+title: "APOS — Agentic Project Operating System v1.0"
+version: "1.0"
+authors:
+  - family-names: "Efendi"
+    given-names: "Rachmat"
+abstract: >-
+  A project-scoped operating specification for LLM workspaces using
+  Markdown project instructions, orchestration, decision gates, skills,
+  and lightweight project state.
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Efendi"
+      given-names: "Rachmat"
+  title: "Agentic Project Operating System (APOS) v1.0: Normative Reference Specification"
+  year: 2026
+  notes: "Author-designated v1.0 normative baseline; this designation is not an empirical validation or host-enforcement claim."

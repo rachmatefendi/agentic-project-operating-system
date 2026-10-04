@@ -1,0 +1,15 @@
+APOS — Agentic Project Operating System v1.0
+Copyright and permitted-use notice
+
+Copyright (c) 2026 Rachmat Efendi. All rights reserved except for the permissions expressly stated below.
+
+Permission is granted to view, cite, evaluate, and discuss this specification and its accompanying examples. Permission is also granted to copy and adapt the generic APOS project templates for personal, research, educational, and internal organizational use, provided that:
+
+1. attribution to Rachmat Efendi and APOS is preserved in the originating documentation or implementation notes;
+2. modified versions are clearly identified as modified and are not represented as the author's original APOS baseline;
+3. no modified implementation claims certification, validation, endorsement, or conformance by the author unless separately granted in writing; and
+4. third-party works and references retain their own copyright and license terms.
+
+This notice does not grant permission to sell, sublicense, or redistribute the APOS specification or template package as a competing standalone commercial framework or branded product without separate written permission from the copyright holder.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE SPECIFICATION DESCRIBES AN ARCHITECTURE AND REFERENCE PROFILE. IT DOES NOT WARRANT MODEL BEHAVIOR, SECURITY, REGULATORY COMPLIANCE, PROFESSIONAL FITNESS, OR TECHNICAL ENFORCEMENT ON ANY PARTICULAR HOST.
