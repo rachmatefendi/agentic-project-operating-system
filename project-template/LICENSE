@@ -1,15 +1,21 @@
-APOS — Agentic Project Operating System v1.0
-Copyright and permitted-use notice
+MIT License
 
-Copyright (c) 2026 Rachmat Efendi. All rights reserved except for the permissions expressly stated below.
+Copyright (c) 2026 Rachmat Efendi
 
-Permission is granted to view, cite, evaluate, and discuss this specification and its accompanying examples. Permission is also granted to copy and adapt the generic APOS project templates for personal, research, educational, and internal organizational use, provided that:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. attribution to Rachmat Efendi and APOS is preserved in the originating documentation or implementation notes;
-2. modified versions are clearly identified as modified and are not represented as the author's original APOS baseline;
-3. no modified implementation claims certification, validation, endorsement, or conformance by the author unless separately granted in writing; and
-4. third-party works and references retain their own copyright and license terms.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-This notice does not grant permission to sell, sublicense, or redistribute the APOS specification or template package as a competing standalone commercial framework or branded product without separate written permission from the copyright holder.
-
-THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE SPECIFICATION DESCRIBES AN ARCHITECTURE AND REFERENCE PROFILE. IT DOES NOT WARRANT MODEL BEHAVIOR, SECURITY, REGULATORY COMPLIANCE, PROFESSIONAL FITNESS, OR TECHNICAL ENFORCEMENT ON ANY PARTICULAR HOST.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

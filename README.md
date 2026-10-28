@@ -139,4 +139,11 @@ For the formal architecture and invariants, see [`docs/SPECIFICATION.md`](docs/S
 
 ## Citation and rights
 
-Citation metadata is in [`CITATION.cff`](CITATION.cff). Reuse terms are in [`LICENSE`](LICENSE).
+Citation metadata is in [`CITATION.cff`](CITATION.cff).
+
+Copyright © 2026 Rachmat Efendi.
+
+- **Specification, documentation and examples:** [CC BY 4.0](LICENSE).
+- **Reusable project template** (`project-template/`): [MIT License](project-template/LICENSE).
+
+Modified versions must not be presented as the author's original APOS v1.0 baseline. CC BY 4.0 requires indicating that changes were made.

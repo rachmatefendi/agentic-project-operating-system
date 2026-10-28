@@ -15,6 +15,6 @@ Delete unused placeholders and add only the skills/gates your project actually n
 
 ## Rights and host boundary
 
-Use of this template is subject to the repository `LICENSE`. Attribution to Rachmat Efendi and APOS must be preserved as required there.
+This template is licensed under the MIT License (see `LICENSE` in this folder). Keep the copyright notice and license text when you copy it.
 
 These Markdown files specify intended project behavior; they do **not** create host-level security, persistence, isolation, tool restrictions, or execution enforcement. Those properties depend on the LLM host and its actual configuration.

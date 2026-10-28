@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use or discuss APOS, please cite this specification."
 title: "APOS — Agentic Project Operating System v1.0"
 version: "1.0"
+license: CC-BY-4.0
 authors:
   - family-names: "Efendi"
     given-names: "Rachmat"
